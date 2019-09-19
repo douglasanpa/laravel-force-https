@@ -1,5 +1,5 @@
 {
-  "name": "yaroslawww/laravel-force-https",
+  "name": "douglasanpa/laravel-force-https",
   "description": "Easy redirect to https for Laravel",
   "keywords": [
     "https",
